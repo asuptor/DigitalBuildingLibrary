@@ -7,7 +7,7 @@ DOI: [https://doi.org/10.1007/s12273-025-1301-3](https://doi.org/10.26868/252227
 <br />
 <br />
 
-The Building Material Library contains a digital implementation of the Italian residential building archetypes in TABULA (Corrado et al. 2011). The work uses assemblies detailed in Italian technical report UNI/TR 11552 (UNI 2014) to match TABULA values, adjusting thicknesses as required, and programming these into JSON files using Honeybee [(Ladybug Tools 2023)](https://www.ladybug.tools/)
+The Digital Building Library contains a digital implementation of the Italian residential building archetypes in TABULA (Corrado et al. 2011). The work uses assemblies detailed in Italian technical report UNI/TR 11552 (UNI 2014) to match TABULA values, adjusting thicknesses as required, and programming these into JSON files using Honeybee [(Ladybug Tools 2023)](https://www.ladybug.tools/)
 <br />
 
 In addition to the baseline condition as per TABULA, the research simulates energy conservation measures (ECMs), based on the nearly-zero energy building (nZEB) standards of the Italian Interim-Ministerial Decree 26
